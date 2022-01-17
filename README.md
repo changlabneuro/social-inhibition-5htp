@@ -6,7 +6,7 @@ Before running these scripts, grab these dependencies and the source data:
 * [shared_utils](https://github.com/nfagan/shared_utils)
 * [categorical](https://github.com/nfagan/categorical)
 * [dsp3](https://github.com/nfagan/dsp3)
-* [data](...)
+* [data](https://www.dropbox.com/s/i1jbghxg7k4m88u/final_processed_data.zip?dl=0)
 
 Once downloaded, unzip the source data and provide the path to the folder like so: 
 ```
